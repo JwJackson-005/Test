@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"scheduleApp"},{"l":"scheduleApp.Controllers"},{"l":"scheduleApp.DBAccess"},{"l":"scheduleApp.ModelClasses"},{"l":"scheduleApp.utils"}]

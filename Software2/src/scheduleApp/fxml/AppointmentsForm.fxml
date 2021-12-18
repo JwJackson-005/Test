@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="1000.0" style="-fx-background-color: #E8E8E8;" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="scheduleApp.Controllers.AppointmentsController">
+   <children>
+      <Label fx:id="userLabel" alignment="CENTER_RIGHT" layoutX="774.0" layoutY="7.0" prefHeight="20.0" prefWidth="220.0" text="Logged in as: " />
+      <Label layoutX="39.0" layoutY="36.0" prefHeight="38.0" prefWidth="238.0" text="Appointments">
+         <font>
+            <Font name="System Bold Italic" size="24.0" />
+         </font>
+      </Label>
+      <GridPane layoutX="628.0" layoutY="86.0" prefHeight="365.0" prefWidth="291.0">
+        <columnConstraints>
+          <ColumnConstraints hgrow="SOMETIMES" maxWidth="138.60003662109375" minWidth="10.0" prefWidth="107.9999267578125" />
+          <ColumnConstraints hgrow="SOMETIMES" maxWidth="195.13330078125" minWidth="10.0" prefWidth="182.4000732421875" />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <Label prefHeight="20.0" prefWidth="131.0" text="Appointment ID">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label prefHeight="18.0" prefWidth="135.0" text="Title" GridPane.rowIndex="1">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label prefHeight="18.0" prefWidth="135.0" text="Description" GridPane.rowIndex="2">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label prefHeight="18.0" prefWidth="135.0" text="Location" GridPane.rowIndex="3">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label text="Type" GridPane.rowIndex="4">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label prefHeight="18.0" prefWidth="135.0" text="Contact" GridPane.rowIndex="5">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label text="Customer ID" GridPane.rowIndex="6">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label text="Start Date" GridPane.rowIndex="7">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label prefHeight="18.0" prefWidth="135.0" text="Start Time" GridPane.rowIndex="8">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label text="End Date" GridPane.rowIndex="9">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label text="End Time" GridPane.rowIndex="10">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <TextField fx:id="appointmentIdTextField" disable="true" promptText="AutoGen - Disabled" GridPane.columnIndex="1" />
+            <TextField fx:id="titleTextField" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+            <TextField fx:id="descriptionTextField" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+            <TextField fx:id="locationTextField" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+            <TextField fx:id="typeTextField" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+            <ComboBox fx:id="contactComboBox" prefHeight="26.0" prefWidth="220.0" GridPane.columnIndex="1" GridPane.rowIndex="5" />
+            <ComboBox fx:id="customerIdComboBox" prefHeight="26.0" prefWidth="216.0" GridPane.columnIndex="1" GridPane.rowIndex="6" />
+            <DatePicker fx:id="startDatePicker" prefHeight="26.0" prefWidth="198.0" GridPane.columnIndex="1" GridPane.rowIndex="7" />
+            <ComboBox fx:id="startTimeComboBox" prefHeight="26.0" prefWidth="228.0" GridPane.columnIndex="1" GridPane.rowIndex="8" />
+            <DatePicker fx:id="endDatePicker" prefHeight="26.0" prefWidth="198.0" GridPane.columnIndex="1" GridPane.rowIndex="9" />
+            <ComboBox fx:id="endTimeComboBox" prefHeight="26.0" prefWidth="221.0" GridPane.columnIndex="1" GridPane.rowIndex="10" />
+         </children>
+      </GridPane>
+      <Button fx:id="addModifyButton" layoutX="675.0" layoutY="467.0" mnemonicParsing="false" onAction="#addOrModifyClicked" prefHeight="26.0" prefWidth="100.0" text="Add" />
+      <Button fx:id="deleteButton" layoutX="825.0" layoutY="467.0" mnemonicParsing="false" onAction="#deleteButtonClicked" prefHeight="26.0" prefWidth="100.0" text="Delete" />
+      <Button layoutX="730.0" layoutY="507.0" mnemonicParsing="false" onAction="#clearButtonClicked" prefHeight="26.0" prefWidth="150.0" text="Clear Selection" />
+      <Button layoutX="868.0" layoutY="554.0" mnemonicParsing="false" onAction="#exitButtonClicked" prefHeight="26.0" prefWidth="100.0" text="Exit" />
+      <TableView fx:id="appointmentTableView" layoutX="25.0" layoutY="86.0" prefHeight="482.0" prefWidth="534.0">
+        <columns>
+          <TableColumn fx:id="appointmentIdColumn" prefWidth="80.53328132629395" text="Appointment ID" />
+          <TableColumn fx:id="titleColumn" prefWidth="86.39998626708984" text="Title" />
+            <TableColumn fx:id="descriptionColumn" minWidth="0.0" prefWidth="160.53329467773438" text="Description" />
+            <TableColumn fx:id="locationColumn" prefWidth="117.33331298828125" text="Location" />
+            <TableColumn fx:id="contactColumn" prefWidth="87.19997558593752" text="Contact" />
+            <TableColumn fx:id="typeColumn" prefWidth="75.0" text="Type" />
+            <TableColumn fx:id="startTimeColumn" prefWidth="75.0" text="Start Time" />
+            <TableColumn fx:id="endTimeColumn" prefWidth="75.0" text="End Time" />
+            <TableColumn fx:id="customerIdColumn" prefWidth="75.0" text="Customer ID" />
+        </columns>
+      </TableView>
+      <RadioButton fx:id="weeklyRadioButton" layoutX="228.0" layoutY="55.0" mnemonicParsing="false" onAction="#populateTableView" prefHeight="18.0" prefWidth="100.0" text="Weekly View" />
+      <RadioButton fx:id="monthlyRadioButton" layoutX="343.0" layoutY="55.0" mnemonicParsing="false" onAction="#populateTableView" text="Monthly View" />
+      <RadioButton fx:id="allRadioButton" layoutX="464.0" layoutY="55.0" mnemonicParsing="false" onAction="#populateTableView" text="All View" />
+   </children>
+</AnchorPane>
