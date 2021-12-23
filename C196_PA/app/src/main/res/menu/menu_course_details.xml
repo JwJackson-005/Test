@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/deleteCourse"
+        android:orderInCategory="100"
+        android:title="Delete Course"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/showNotes"
+        android:orderInCategory="100"
+        android:title="Display Optional Notes"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/hideNotes"
+        android:orderInCategory="100"
+        android:title="Hide Optional Notes"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/shareNotes"
+        android:orderInCategory="100"
+        android:title="Share Optional Notes"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/startNotification"
+        android:orderInCategory="100"
+        android:title="Set Start Date Notification"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/endNotification"
+        android:orderInCategory="100"
+        android:title="Set End Date Notification"
+        app:showAsAction="never" />
+
+</menu>

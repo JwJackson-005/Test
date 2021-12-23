@@ -1,0 +1,1152 @@
+{
+  "HI": {
+    "LoanAmountSummary": {
+      "Sum": 1.3107189E7,
+      "Average": 451972.03,
+      "Median": 392449.0,
+      "Minimum": 21153.0,
+      "Maximum": 980009.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 2.7435912E7,
+      "Average": 946065.93,
+      "Median": 880978.0,
+      "Minimum": 162819.0,
+      "Maximum": 1767574.0
+    },
+    "InterestRateSummary": {
+      "Sum": 103.02,
+      "Average": 3.55,
+      "Median": 3.66,
+      "Minimum": 2.26,
+      "Maximum": 4.87
+    }
+  },
+  "DE": {
+    "LoanAmountSummary": {
+      "Sum": 7405935.0,
+      "Average": 493729.0,
+      "Median": 440933.0,
+      "Minimum": 59441.0,
+      "Maximum": 968777.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 1.7517579E7,
+      "Average": 1167838.6,
+      "Median": 1165582.0,
+      "Minimum": 708481.0,
+      "Maximum": 1819189.0
+    },
+    "InterestRateSummary": {
+      "Sum": 48.34,
+      "Average": 3.22,
+      "Median": 3.21,
+      "Minimum": 2.19,
+      "Maximum": 4.51
+    }
+  },
+  "TX": {
+    "LoanAmountSummary": {
+      "Sum": 1.1761195E7,
+      "Average": 560056.9,
+      "Median": 626609.0,
+      "Minimum": 97.0,
+      "Maximum": 976732.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 2.2404078E7,
+      "Average": 1066860.86,
+      "Median": 1110820.0,
+      "Minimum": 230170.0,
+      "Maximum": 1670233.0
+    },
+    "InterestRateSummary": {
+      "Sum": 70.27,
+      "Average": 3.35,
+      "Median": 3.46,
+      "Minimum": 2.09,
+      "Maximum": 4.48
+    }
+  },
+  "MA": {
+    "LoanAmountSummary": {
+      "Sum": 9167761.0,
+      "Average": 572985.06,
+      "Median": 668145.5,
+      "Minimum": 19372.0,
+      "Maximum": 977846.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 1.7595967E7,
+      "Average": 1099747.94,
+      "Median": 1077670.0,
+      "Minimum": 258704.0,
+      "Maximum": 1947006.0
+    },
+    "InterestRateSummary": {
+      "Sum": 53.83,
+      "Average": 3.36,
+      "Median": 3.1,
+      "Minimum": 2.02,
+      "Maximum": 4.99
+    }
+  },
+  "MD": {
+    "LoanAmountSummary": {
+      "Sum": 1.0409026E7,
+      "Average": 578279.22,
+      "Median": 701022.0,
+      "Minimum": 23848.0,
+      "Maximum": 995130.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 1.9161166E7,
+      "Average": 1064509.22,
+      "Median": 1083573.0,
+      "Minimum": 249096.0,
+      "Maximum": 1765072.0
+    },
+    "InterestRateSummary": {
+      "Sum": 59.5,
+      "Average": 3.31,
+      "Median": 3.25,
+      "Minimum": 2.24,
+      "Maximum": 4.95
+    }
+  },
+  "IA": {
+    "LoanAmountSummary": {
+      "Sum": 1.1363313E7,
+      "Average": 473471.38,
+      "Median": 432024.5,
+      "Minimum": 26561.0,
+      "Maximum": 981518.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 2.4070581E7,
+      "Average": 1002940.88,
+      "Median": 959466.0,
+      "Minimum": 351776.0,
+      "Maximum": 1872813.0
+    },
+    "InterestRateSummary": {
+      "Sum": 85.48,
+      "Average": 3.56,
+      "Median": 3.72,
+      "Minimum": 2.14,
+      "Maximum": 4.98
+    }
+  },
+  "ME": {
+    "LoanAmountSummary": {
+      "Sum": 1.1865501E7,
+      "Average": 539340.95,
+      "Median": 501088.0,
+      "Minimum": 53364.0,
+      "Maximum": 926184.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 2.1952902E7,
+      "Average": 997859.18,
+      "Median": 967756.5,
+      "Minimum": 314034.0,
+      "Maximum": 1620798.0
+    },
+    "InterestRateSummary": {
+      "Sum": 69.74,
+      "Average": 3.17,
+      "Median": 3.22,
+      "Minimum": 2.03,
+      "Maximum": 4.44
+    }
+  },
+  "ID": {
+    "LoanAmountSummary": {
+      "Sum": 8372917.0,
+      "Average": 465162.06,
+      "Median": 427885.0,
+      "Minimum": 18094.0,
+      "Maximum": 878906.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 1.7818858E7,
+      "Average": 989936.56,
+      "Median": 1063188.5,
+      "Minimum": 191434.0,
+      "Maximum": 1713847.0
+    },
+    "InterestRateSummary": {
+      "Sum": 59.27,
+      "Average": 3.29,
+      "Median": 2.83,
+      "Minimum": 2.01,
+      "Maximum": 4.71
+    }
+  },
+  "MI": {
+    "LoanAmountSummary": {
+      "Sum": 7563824.0,
+      "Average": 398096.0,
+      "Median": 366054.0,
+      "Minimum": 22244.0,
+      "Maximum": 980424.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 1.6058353E7,
+      "Average": 845176.47,
+      "Median": 746886.0,
+      "Minimum": 170376.0,
+      "Maximum": 1775606.0
+    },
+    "InterestRateSummary": {
+      "Sum": 68.6,
+      "Average": 3.61,
+      "Median": 3.86,
+      "Minimum": 2.01,
+      "Maximum": 4.89
+    }
+  },
+  "UT": {
+    "LoanAmountSummary": {
+      "Sum": 1.2587608E7,
+      "Average": 547287.3,
+      "Median": 584650.0,
+      "Minimum": 68300.0,
+      "Maximum": 917299.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 2.4400194E7,
+      "Average": 1060878.0,
+      "Median": 1054831.0,
+      "Minimum": 497943.0,
+      "Maximum": 1655183.0
+    },
+    "InterestRateSummary": {
+      "Sum": 80.61,
+      "Average": 3.5,
+      "Median": 3.48,
+      "Minimum": 2.05,
+      "Maximum": 4.87
+    }
+  },
+  "MN": {
+    "LoanAmountSummary": {
+      "Sum": 7823027.0,
+      "Average": 488939.19,
+      "Median": 448227.5,
+      "Minimum": 8506.0,
+      "Maximum": 959897.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 1.5176534E7,
+      "Average": 948533.38,
+      "Median": 951722.5,
+      "Minimum": 43254.0,
+      "Maximum": 1579927.0
+    },
+    "InterestRateSummary": {
+      "Sum": 53.67,
+      "Average": 3.35,
+      "Median": 3.05,
+      "Minimum": 2.0,
+      "Maximum": 4.94
+    }
+  },
+  "MO": {
+    "LoanAmountSummary": {
+      "Sum": 1.1399383E7,
+      "Average": 542827.76,
+      "Median": 525148.0,
+      "Minimum": 25345.0,
+      "Maximum": 959360.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 2.0173884E7,
+      "Average": 960661.14,
+      "Median": 956881.0,
+      "Minimum": 185542.0,
+      "Maximum": 1813308.0
+    },
+    "InterestRateSummary": {
+      "Sum": 74.05,
+      "Average": 3.53,
+      "Median": 3.57,
+      "Minimum": 2.31,
+      "Maximum": 4.75
+    }
+  },
+  "IL": {
+    "LoanAmountSummary": {
+      "Sum": 1.4679402E7,
+      "Average": 587176.08,
+      "Median": 689896.0,
+      "Minimum": 2969.0,
+      "Maximum": 946438.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 2.7946335E7,
+      "Average": 1117853.4,
+      "Median": 1128257.0,
+      "Minimum": 289026.0,
+      "Maximum": 1903992.0
+    },
+    "InterestRateSummary": {
+      "Sum": 89.03,
+      "Average": 3.56,
+      "Median": 3.72,
+      "Minimum": 2.0,
+      "Maximum": 4.98
+    }
+  },
+  "IN": {
+    "LoanAmountSummary": {
+      "Sum": 8851985.0,
+      "Average": 442599.25,
+      "Median": 430484.5,
+      "Minimum": 50481.0,
+      "Maximum": 891498.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 2.1455228E7,
+      "Average": 1072761.4,
+      "Median": 1232293.0,
+      "Minimum": 170194.0,
+      "Maximum": 1689893.0
+    },
+    "InterestRateSummary": {
+      "Sum": 71.4,
+      "Average": 3.57,
+      "Median": 3.49,
+      "Minimum": 2.09,
+      "Maximum": 4.69
+    }
+  },
+  "MS": {
+    "LoanAmountSummary": {
+      "Sum": 5186679.0,
+      "Average": 324167.44,
+      "Median": 238057.5,
+      "Minimum": 11875.0,
+      "Maximum": 960924.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 1.1734259E7,
+      "Average": 733391.19,
+      "Median": 718695.5,
+      "Minimum": 211418.0,
+      "Maximum": 1471665.0
+    },
+    "InterestRateSummary": {
+      "Sum": 52.87,
+      "Average": 3.3,
+      "Median": 3.28,
+      "Minimum": 2.04,
+      "Maximum": 4.82
+    }
+  },
+  "MT": {
+    "LoanAmountSummary": {
+      "Sum": 7757140.0,
+      "Average": 456302.35,
+      "Median": 501765.0,
+      "Minimum": 27157.0,
+      "Maximum": 886911.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 1.737722E7,
+      "Average": 1022189.41,
+      "Median": 1035371.0,
+      "Minimum": 173672.0,
+      "Maximum": 1560223.0
+    },
+    "InterestRateSummary": {
+      "Sum": 58.32,
+      "Average": 3.43,
+      "Median": 3.18,
+      "Minimum": 2.19,
+      "Maximum": 4.91
+    }
+  },
+  "AK": {
+    "LoanAmountSummary": {
+      "Sum": 1.5907777E7,
+      "Average": 611837.58,
+      "Median": 736835.0,
+      "Minimum": 3849.0,
+      "Maximum": 994712.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 3.0104447E7,
+      "Average": 1157863.35,
+      "Median": 1092718.5,
+      "Minimum": 469916.0,
+      "Maximum": 1926975.0
+    },
+    "InterestRateSummary": {
+      "Sum": 83.21,
+      "Average": 3.2,
+      "Median": 2.95,
+      "Minimum": 2.04,
+      "Maximum": 4.85
+    }
+  },
+  "VA": {
+    "LoanAmountSummary": {
+      "Sum": 1.0614627E7,
+      "Average": 530731.35,
+      "Median": 622263.0,
+      "Minimum": 2228.0,
+      "Maximum": 999539.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 2.1263518E7,
+      "Average": 1063175.9,
+      "Median": 1021234.5,
+      "Minimum": 127386.0,
+      "Maximum": 1747432.0
+    },
+    "InterestRateSummary": {
+      "Sum": 70.1,
+      "Average": 3.5,
+      "Median": 3.54,
+      "Minimum": 2.04,
+      "Maximum": 4.83
+    }
+  },
+  "AL": {
+    "LoanAmountSummary": {
+      "Sum": 7394120.0,
+      "Average": 389164.21,
+      "Median": 333852.0,
+      "Minimum": 95078.0,
+      "Maximum": 956158.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 1.7733573E7,
+      "Average": 933345.95,
+      "Median": 1064819.0,
+      "Minimum": 290953.0,
+      "Maximum": 1743768.0
+    },
+    "InterestRateSummary": {
+      "Sum": 70.03,
+      "Average": 3.69,
+      "Median": 3.81,
+      "Minimum": 2.03,
+      "Maximum": 4.84
+    }
+  },
+  "AR": {
+    "LoanAmountSummary": {
+      "Sum": 7715347.0,
+      "Average": 482209.19,
+      "Median": 449020.5,
+      "Minimum": 44185.0,
+      "Maximum": 909811.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 1.5793049E7,
+      "Average": 987065.56,
+      "Median": 1051584.5,
+      "Minimum": 330901.0,
+      "Maximum": 1566136.0
+    },
+    "InterestRateSummary": {
+      "Sum": 58.59,
+      "Average": 3.66,
+      "Median": 4.06,
+      "Minimum": 2.04,
+      "Maximum": 4.99
+    }
+  },
+  "NC": {
+    "LoanAmountSummary": {
+      "Sum": 7693520.0,
+      "Average": 366358.1,
+      "Median": 293422.0,
+      "Minimum": 11342.0,
+      "Maximum": 974880.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 1.8091313E7,
+      "Average": 861491.1,
+      "Median": 837052.0,
+      "Minimum": 131856.0,
+      "Maximum": 1655781.0
+    },
+    "InterestRateSummary": {
+      "Sum": 74.2,
+      "Average": 3.53,
+      "Median": 3.53,
+      "Minimum": 2.05,
+      "Maximum": 4.89
+    }
+  },
+  "ND": {
+    "LoanAmountSummary": {
+      "Sum": 1.1348464E7,
+      "Average": 540403.05,
+      "Median": 574717.0,
+      "Minimum": 26887.0,
+      "Maximum": 995709.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 2.1357284E7,
+      "Average": 1017013.52,
+      "Median": 952143.0,
+      "Minimum": 310040.0,
+      "Maximum": 1843406.0
+    },
+    "InterestRateSummary": {
+      "Sum": 72.48,
+      "Average": 3.45,
+      "Median": 3.66,
+      "Minimum": 2.11,
+      "Maximum": 4.84
+    }
+  },
+  "RI": {
+    "LoanAmountSummary": {
+      "Sum": 1.228534E7,
+      "Average": 491413.6,
+      "Median": 483607.0,
+      "Minimum": 42855.0,
+      "Maximum": 998571.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 2.6666342E7,
+      "Average": 1066653.68,
+      "Median": 1043614.0,
+      "Minimum": 281027.0,
+      "Maximum": 1746489.0
+    },
+    "InterestRateSummary": {
+      "Sum": 93.37,
+      "Average": 3.73,
+      "Median": 3.83,
+      "Minimum": 2.14,
+      "Maximum": 4.82
+    }
+  },
+  "NE": {
+    "LoanAmountSummary": {
+      "Sum": 1.012704E7,
+      "Average": 595708.24,
+      "Median": 578844.0,
+      "Minimum": 57722.0,
+      "Maximum": 968244.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 1.9272795E7,
+      "Average": 1133693.82,
+      "Median": 1195766.0,
+      "Minimum": 216638.0,
+      "Maximum": 1727103.0
+    },
+    "InterestRateSummary": {
+      "Sum": 60.62,
+      "Average": 3.57,
+      "Median": 3.53,
+      "Minimum": 2.18,
+      "Maximum": 4.83
+    }
+  },
+  "AZ": {
+    "LoanAmountSummary": {
+      "Sum": 1.2621426E7,
+      "Average": 525892.75,
+      "Median": 575965.5,
+      "Minimum": 30996.0,
+      "Maximum": 977859.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 2.3839561E7,
+      "Average": 993315.04,
+      "Median": 965179.5,
+      "Minimum": 285356.0,
+      "Maximum": 1921993.0
+    },
+    "InterestRateSummary": {
+      "Sum": 85.28,
+      "Average": 3.55,
+      "Median": 3.51,
+      "Minimum": 2.35,
+      "Maximum": 4.95
+    }
+  },
+  "NH": {
+    "LoanAmountSummary": {
+      "Sum": 1.3669412E7,
+      "Average": 525746.62,
+      "Median": 518020.5,
+      "Minimum": 9460.0,
+      "Maximum": 996994.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 2.5865131E7,
+      "Average": 994812.73,
+      "Median": 1046154.5,
+      "Minimum": 443919.0,
+      "Maximum": 1798979.0
+    },
+    "InterestRateSummary": {
+      "Sum": 88.48,
+      "Average": 3.4,
+      "Median": 3.38,
+      "Minimum": 2.15,
+      "Maximum": 4.86
+    }
+  },
+  "NJ": {
+    "LoanAmountSummary": {
+      "Sum": 7156132.0,
+      "Average": 420948.94,
+      "Median": 408965.0,
+      "Minimum": 31148.0,
+      "Maximum": 970642.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 1.5791914E7,
+      "Average": 928936.12,
+      "Median": 845514.0,
+      "Minimum": 385139.0,
+      "Maximum": 1760577.0
+    },
+    "InterestRateSummary": {
+      "Sum": 63.85,
+      "Average": 3.76,
+      "Median": 4.09,
+      "Minimum": 2.14,
+      "Maximum": 4.98
+    }
+  },
+  "VT": {
+    "LoanAmountSummary": {
+      "Sum": 7727908.0,
+      "Average": 515193.87,
+      "Median": 551007.0,
+      "Minimum": 98516.0,
+      "Maximum": 981929.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 1.4054099E7,
+      "Average": 936939.93,
+      "Median": 840492.0,
+      "Minimum": 371736.0,
+      "Maximum": 1643255.0
+    },
+    "InterestRateSummary": {
+      "Sum": 52.32,
+      "Average": 3.49,
+      "Median": 3.21,
+      "Minimum": 2.06,
+      "Maximum": 4.91
+    }
+  },
+  "NM": {
+    "LoanAmountSummary": {
+      "Sum": 1.2205754E7,
+      "Average": 508573.08,
+      "Median": 477069.5,
+      "Minimum": 30256.0,
+      "Maximum": 982490.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 2.5296371E7,
+      "Average": 1054015.46,
+      "Median": 1051022.5,
+      "Minimum": 429454.0,
+      "Maximum": 1907516.0
+    },
+    "InterestRateSummary": {
+      "Sum": 84.43,
+      "Average": 3.52,
+      "Median": 3.61,
+      "Minimum": 2.0,
+      "Maximum": 4.95
+    }
+  },
+  "FL": {
+    "LoanAmountSummary": {
+      "Sum": 1.3073708E7,
+      "Average": 522948.32,
+      "Median": 585828.0,
+      "Minimum": 63412.0,
+      "Maximum": 873032.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 2.5432995E7,
+      "Average": 1017319.8,
+      "Median": 991384.0,
+      "Minimum": 270164.0,
+      "Maximum": 1665264.0
+    },
+    "InterestRateSummary": {
+      "Sum": 93.86,
+      "Average": 3.75,
+      "Median": 3.76,
+      "Minimum": 2.0,
+      "Maximum": 4.88
+    }
+  },
+  "NV": {
+    "LoanAmountSummary": {
+      "Sum": 1.024792E7,
+      "Average": 512396.0,
+      "Median": 508667.0,
+      "Minimum": 98722.0,
+      "Maximum": 991029.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 2.090261E7,
+      "Average": 1045130.5,
+      "Median": 1020371.0,
+      "Minimum": 368059.0,
+      "Maximum": 1987010.0
+    },
+    "InterestRateSummary": {
+      "Sum": 71.69,
+      "Average": 3.58,
+      "Median": 3.56,
+      "Minimum": 2.22,
+      "Maximum": 4.91
+    }
+  },
+  "WA": {
+    "LoanAmountSummary": {
+      "Sum": 4600750.0,
+      "Average": 383395.83,
+      "Median": 297939.5,
+      "Minimum": 38698.0,
+      "Maximum": 885828.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 9838146.0,
+      "Average": 819845.5,
+      "Median": 863116.0,
+      "Minimum": 95052.0,
+      "Maximum": 1596986.0
+    },
+    "InterestRateSummary": {
+      "Sum": 41.24,
+      "Average": 3.44,
+      "Median": 3.33,
+      "Minimum": 2.25,
+      "Maximum": 4.94
+    }
+  },
+  "NY": {
+    "LoanAmountSummary": {
+      "Sum": 9062335.0,
+      "Average": 453116.75,
+      "Median": 383533.5,
+      "Minimum": 10981.0,
+      "Maximum": 982907.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 1.7053905E7,
+      "Average": 852695.25,
+      "Median": 836574.5,
+      "Minimum": 66777.0,
+      "Maximum": 1463283.0
+    },
+    "InterestRateSummary": {
+      "Sum": 75.7,
+      "Average": 3.79,
+      "Median": 4.04,
+      "Minimum": 2.05,
+      "Maximum": 4.95
+    }
+  },
+  "SC": {
+    "LoanAmountSummary": {
+      "Sum": 1.3114978E7,
+      "Average": 546457.42,
+      "Median": 492770.5,
+      "Minimum": 137456.0,
+      "Maximum": 982744.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 2.2567202E7,
+      "Average": 940300.08,
+      "Median": 854767.0,
+      "Minimum": 299878.0,
+      "Maximum": 1576718.0
+    },
+    "InterestRateSummary": {
+      "Sum": 86.05,
+      "Average": 3.59,
+      "Median": 3.75,
+      "Minimum": 2.11,
+      "Maximum": 4.96
+    }
+  },
+  "SD": {
+    "LoanAmountSummary": {
+      "Sum": 9158904.0,
+      "Average": 572431.5,
+      "Median": 633051.5,
+      "Minimum": 65722.0,
+      "Maximum": 947246.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 1.6143496E7,
+      "Average": 1008968.5,
+      "Median": 987721.5,
+      "Minimum": 219757.0,
+      "Maximum": 1632277.0
+    },
+    "InterestRateSummary": {
+      "Sum": 55.07,
+      "Average": 3.44,
+      "Median": 3.24,
+      "Minimum": 2.19,
+      "Maximum": 4.68
+    }
+  },
+  "WI": {
+    "LoanAmountSummary": {
+      "Sum": 1.3192782E7,
+      "Average": 599671.91,
+      "Median": 708263.5,
+      "Minimum": 168388.0,
+      "Maximum": 964743.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 2.5917349E7,
+      "Average": 1178061.32,
+      "Median": 1283295.0,
+      "Minimum": 526722.0,
+      "Maximum": 1914509.0
+    },
+    "InterestRateSummary": {
+      "Sum": 79.4,
+      "Average": 3.61,
+      "Median": 3.46,
+      "Minimum": 2.06,
+      "Maximum": 4.88
+    }
+  },
+  "OH": {
+    "LoanAmountSummary": {
+      "Sum": 1.0166612E7,
+      "Average": 564811.78,
+      "Median": 580289.5,
+      "Minimum": 85084.0,
+      "Maximum": 993053.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 2.0498893E7,
+      "Average": 1138827.39,
+      "Median": 1114879.0,
+      "Minimum": 354931.0,
+      "Maximum": 1757110.0
+    },
+    "InterestRateSummary": {
+      "Sum": 64.67,
+      "Average": 3.59,
+      "Median": 3.65,
+      "Minimum": 2.25,
+      "Maximum": 4.96
+    }
+  },
+  "GA": {
+    "LoanAmountSummary": {
+      "Sum": 1.0332941E7,
+      "Average": 492044.81,
+      "Median": 516466.0,
+      "Minimum": 71804.0,
+      "Maximum": 905574.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 2.0584504E7,
+      "Average": 980214.48,
+      "Median": 1018738.0,
+      "Minimum": 239571.0,
+      "Maximum": 1689452.0
+    },
+    "InterestRateSummary": {
+      "Sum": 72.71,
+      "Average": 3.46,
+      "Median": 3.72,
+      "Minimum": 2.05,
+      "Maximum": 4.83
+    }
+  },
+  "OK": {
+    "LoanAmountSummary": {
+      "Sum": 5842921.0,
+      "Average": 486910.08,
+      "Median": 491744.0,
+      "Minimum": 101608.0,
+      "Maximum": 968019.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 1.1110386E7,
+      "Average": 925865.5,
+      "Median": 893617.0,
+      "Minimum": 229291.0,
+      "Maximum": 1641482.0
+    },
+    "InterestRateSummary": {
+      "Sum": 42.24,
+      "Average": 3.52,
+      "Median": 3.51,
+      "Minimum": 2.08,
+      "Maximum": 4.7
+    }
+  },
+  "CA": {
+    "LoanAmountSummary": {
+      "Sum": 8111886.0,
+      "Average": 506992.88,
+      "Median": 420334.0,
+      "Minimum": 70780.0,
+      "Maximum": 898820.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 1.6288783E7,
+      "Average": 1018048.94,
+      "Median": 1048224.5,
+      "Minimum": 136862.0,
+      "Maximum": 1798932.0
+    },
+    "InterestRateSummary": {
+      "Sum": 62.89,
+      "Average": 3.93,
+      "Median": 4.16,
+      "Minimum": 2.49,
+      "Maximum": 4.99
+    }
+  },
+  "WV": {
+    "LoanAmountSummary": {
+      "Sum": 1.0212972E7,
+      "Average": 464226.0,
+      "Median": 483230.0,
+      "Minimum": 4471.0,
+      "Maximum": 958946.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 2.3202554E7,
+      "Average": 1054661.55,
+      "Median": 1134258.5,
+      "Minimum": 91116.0,
+      "Maximum": 1808208.0
+    },
+    "InterestRateSummary": {
+      "Sum": 74.75,
+      "Average": 3.4,
+      "Median": 3.14,
+      "Minimum": 2.23,
+      "Maximum": 4.6
+    }
+  },
+  "WY": {
+    "LoanAmountSummary": {
+      "Sum": 1.0810561E7,
+      "Average": 491389.14,
+      "Median": 484575.5,
+      "Minimum": 20352.0,
+      "Maximum": 991939.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 2.2265377E7,
+      "Average": 1012062.59,
+      "Median": 991063.0,
+      "Minimum": 289764.0,
+      "Maximum": 1739808.0
+    },
+    "InterestRateSummary": {
+      "Sum": 83.67,
+      "Average": 3.8,
+      "Median": 3.83,
+      "Minimum": 2.14,
+      "Maximum": 4.91
+    }
+  },
+  "OR": {
+    "LoanAmountSummary": {
+      "Sum": 1.0984295E7,
+      "Average": 457678.96,
+      "Median": 370080.5,
+      "Minimum": 83852.0,
+      "Maximum": 960089.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 2.372011E7,
+      "Average": 988337.92,
+      "Median": 1014599.0,
+      "Minimum": 306310.0,
+      "Maximum": 1829659.0
+    },
+    "InterestRateSummary": {
+      "Sum": 86.61,
+      "Average": 3.61,
+      "Median": 3.65,
+      "Minimum": 2.06,
+      "Maximum": 4.61
+    }
+  },
+  "KS": {
+    "LoanAmountSummary": {
+      "Sum": 9439599.0,
+      "Average": 524422.17,
+      "Median": 516534.5,
+      "Minimum": 174833.0,
+      "Maximum": 899978.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 1.6493461E7,
+      "Average": 916303.39,
+      "Median": 891797.5,
+      "Minimum": 296183.0,
+      "Maximum": 1566514.0
+    },
+    "InterestRateSummary": {
+      "Sum": 67.85,
+      "Average": 3.77,
+      "Median": 4.01,
+      "Minimum": 2.06,
+      "Maximum": 4.87
+    }
+  },
+  "CO": {
+    "LoanAmountSummary": {
+      "Sum": 8003487.0,
+      "Average": 571677.64,
+      "Median": 541223.5,
+      "Minimum": 7661.0,
+      "Maximum": 995891.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 1.5011868E7,
+      "Average": 1072276.29,
+      "Median": 1203851.5,
+      "Minimum": 310912.0,
+      "Maximum": 1817729.0
+    },
+    "InterestRateSummary": {
+      "Sum": 45.07,
+      "Average": 3.22,
+      "Median": 2.93,
+      "Minimum": 2.04,
+      "Maximum": 4.63
+    }
+  },
+  "KY": {
+    "LoanAmountSummary": {
+      "Sum": 1.6697323E7,
+      "Average": 596332.96,
+      "Median": 630808.0,
+      "Minimum": 174133.0,
+      "Maximum": 997139.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 2.7648243E7,
+      "Average": 987437.25,
+      "Median": 997786.0,
+      "Minimum": 438734.0,
+      "Maximum": 1628985.0
+    },
+    "InterestRateSummary": {
+      "Sum": 97.98,
+      "Average": 3.5,
+      "Median": 3.58,
+      "Minimum": 2.05,
+      "Maximum": 4.97
+    }
+  },
+  "PA": {
+    "LoanAmountSummary": {
+      "Sum": 9481993.0,
+      "Average": 526777.39,
+      "Median": 548113.0,
+      "Minimum": 5406.0,
+      "Maximum": 966008.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 1.869266E7,
+      "Average": 1038481.11,
+      "Median": 954712.0,
+      "Minimum": 412502.0,
+      "Maximum": 1792030.0
+    },
+    "InterestRateSummary": {
+      "Sum": 62.56,
+      "Average": 3.48,
+      "Median": 3.58,
+      "Minimum": 2.28,
+      "Maximum": 4.87
+    }
+  },
+  "CT": {
+    "LoanAmountSummary": {
+      "Sum": 9942231.0,
+      "Average": 451919.59,
+      "Median": 478951.0,
+      "Minimum": 18299.0,
+      "Maximum": 997152.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 2.0051827E7,
+      "Average": 911446.68,
+      "Median": 926170.5,
+      "Minimum": 348086.0,
+      "Maximum": 1748852.0
+    },
+    "InterestRateSummary": {
+      "Sum": 68.51,
+      "Average": 3.11,
+      "Median": 3.21,
+      "Minimum": 2.11,
+      "Maximum": 4.45
+    }
+  },
+  "LA": {
+    "LoanAmountSummary": {
+      "Sum": 8084563.0,
+      "Average": 475562.53,
+      "Median": 554468.0,
+      "Minimum": 47746.0,
+      "Maximum": 931961.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 1.7648455E7,
+      "Average": 1038144.41,
+      "Median": 980226.0,
+      "Minimum": 177456.0,
+      "Maximum": 1835540.0
+    },
+    "InterestRateSummary": {
+      "Sum": 56.16,
+      "Average": 3.3,
+      "Median": 2.92,
+      "Minimum": 2.16,
+      "Maximum": 4.85
+    }
+  },
+  "TN": {
+    "LoanAmountSummary": {
+      "Sum": 7888759.0,
+      "Average": 438264.39,
+      "Median": 420265.5,
+      "Minimum": 34417.0,
+      "Maximum": 886739.0
+    },
+    "SubjectAppraisedAmountSummary": {
+      "Sum": 1.5605894E7,
+      "Average": 866994.11,
+      "Median": 777727.5,
+      "Minimum": 302436.0,
+      "Maximum": 1692570.0
+    },
+    "InterestRateSummary": {
+      "Sum": 60.42,
+      "Average": 3.36,
+      "Median": 3.16,
+      "Minimum": 2.08,
+      "Maximum": 4.66
+    }
+  }
+}

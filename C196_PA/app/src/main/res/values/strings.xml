@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">C196_PA</string>
+    <string name="welcome">Student Scheduler and Progress Tracker</string>
+    <string name="enterButton">Enter Scheduler</string>
+    <string name="courseList">Course List</string>
+    <string name="termList">Term List</string>
+    <string name="welcomeScreen">Welcome Screen</string>
+    <string name="delete_term">Delete Term</string>
+    <string name="refresh_courses">Refresh Courses</string>
+    <string name="channel_name">channelname</string>
+    <string name="channel_description">channel description</string>
+    <string-array name="status_array">
+        <item>In Progress</item>
+        <item>Completed</item>
+        <item>Dropped</item>
+        <item>Plan to Take</item>
+    </string-array>
+    <string-array name="assessment_array">
+        <item>Performance</item>
+        <item>Objective</item>
+    </string-array>
+</resources>
